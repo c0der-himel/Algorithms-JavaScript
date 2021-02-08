@@ -9,6 +9,6 @@
 
 ## Contact
 
-MD. Shahadat Hussain - [Portfolio Website Link](https://c0der-himel.github.io/myPortfolio/#contact)
+MD. Shahadat Hussain - [Portfolio Link](https://c0der-himel.github.io/myPortfolio/#contact)
 
-LinkedIn Profile - [click](https://www.linkedin.com/in/shahadat-himel/)
+LinkedIn - [Profile Link](https://www.linkedin.com/in/shahadat-himel/)
